@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/Hiddentechies/bizkick',
+    'frontend/Swe/toyakademi',
     __DIR__
 );

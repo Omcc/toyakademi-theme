@@ -1,5 +1,5 @@
 {
-    "name": "swe/theme-frontend-bizkick",
+    "name": "swe/theme-frontend-toyakademi",
     "description": "N/A",
     "require": {
         "php": "~7.0.13|~7.1.0|7.3.*"
