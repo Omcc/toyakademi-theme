@@ -2,7 +2,7 @@
     "name": "swe/theme-frontend-bizkick",
     "description": "N/A",
     "require": {
-        "php": "~7.0.13|~7.1.0|~7.3.*",
+        "php": "~7.0.13|~7.1.0|7.3.*",
         "magento/theme-frontend-blank": "100.2.*",
         "magento/framework": "101.0.*"
     },
