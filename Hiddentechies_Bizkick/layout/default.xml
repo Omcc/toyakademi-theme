@@ -36,10 +36,7 @@
             <referenceBlock name="footer" remove="true"/>
             <referenceContainer name="copyright" remove="true"/>
         </referenceContainer>
-        <referenceContainer name="page.wrapper">
-            <block class="Magento\Framework\View\Element\Template" as="blzkick.above" name="blzkick.above" template="Hiddentechies_Bizkick::bizkickabove.phtml" before="main.content" />
-            <block class="Magento\Framework\View\Element\Template" as="blzkick.below" name="blzkick.below" template="Hiddentechies_Bizkick::bizkickbelow.phtml" after="main.content" />
-        </referenceContainer>
+        
         <referenceBlock name="wish-list-link" remove="true"/>
     </body>
 </page>
